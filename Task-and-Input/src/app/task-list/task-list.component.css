@@ -1,0 +1,9 @@
+.border {
+	border: 2px solid gray;
+	width: 610px;
+	margin: 20px;
+}
+p {
+	margin: 5px 20px;
+
+}

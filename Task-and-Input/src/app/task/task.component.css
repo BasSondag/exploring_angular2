@@ -1,0 +1,11 @@
+
+.border {
+	border: 2px solid gray;
+	width: 650px;
+	margin: 20px;
+}
+
+p {
+	margin: 5px 20px;
+
+}
